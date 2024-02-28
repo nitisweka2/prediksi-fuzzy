@@ -5,7 +5,7 @@ Untuk penggunaan pada web ini dengan cara:
 3. Pilih tanggal yang ingin diprediksi pada dropdown, jika sudah dipilih pada dropdown, tekan tombol pilih terlebih dahulu, jika sudah tekan tombol hitung. Maka akan menampilkan perhitungan produksi yang optimal pada periode berikutnya.
 
 Demo: <a href="https://optimasi-fuzzy.000webhostapp.com" target="_blank">Optimasi Fuzzy</a>
-Catatan:
+<p>Catatan:
 Ada beberapa fitur di sini yang tidak saya upload yaitu controller hitung, untuk menghitung optimasi produksinya.
 Untuk mendapatkannya bisa menghubungi saya melalui:
 nitiswekaprakosaadi@gmail.com
