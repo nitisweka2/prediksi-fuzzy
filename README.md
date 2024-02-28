@@ -5,6 +5,10 @@ Untuk penggunaan pada web ini dengan cara:
 3. Pilih tanggal yang ingin diprediksi pada dropdown, jika sudah dipilih pada dropdown, tekan tombol pilih terlebih dahulu, jika sudah tekan tombol hitung. Maka akan menampilkan perhitungan produksi yang optimal pada periode berikutnya.
 
 Demo: <a href="https://optimasi-fuzzy.000webhostapp.com" target="_blank">Optimasi Fuzzy</a>
+Catatan:
+Ada beberapa fitur di sini yang tidak saya upload yaitu controller hitung, untuk menghitung optimasi produksinya.
+Untuk mendapatkannya bisa menghubungi saya melalui:
+nitiswekaprakosaadi@gmail.com
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
