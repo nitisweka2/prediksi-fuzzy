@@ -1,3 +1,11 @@
+Website ini dibuat untuk mengoptimasi jumlah produksi tempe yang dibuat pada bulan berikutnya,
+Untuk penggunaan pada web ini dengan cara:
+1. Login website dengan email: admin@gmail.com password: admin1234
+2. Masuk tampilan dashboard, pilih menu, Prediksi.
+3. Pilih tanggal yang ingin diprediksi pada dropdown, jika sudah dipilih pada dropdown, tekan tombol pilih terlebih dahulu, jika sudah tekan tombol hitung. Maka akan menampilkan perhitungan produksi yang optimal pada periode berikutnya.
+
+Demo: optimasi-fuzzy
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
